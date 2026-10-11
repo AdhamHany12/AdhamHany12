@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Adham 👋
 
-<!--
-**AdhamHany12/AdhamHany12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst
+Passionate about transforming raw data into meaningful business insights and driving data-driven decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Databases & Querying:** Microsoft SQL Server, T-SQL, MySQL
+- **Business Intelligence & Analytics:** Power BI (DAX, Power Query), Advanced Excel
+- **Programming & Data Processing:** Python (Pandas, NumPy, Streamlit)
+- **Data Architecture:** Star Schema, ERD Modeling, Data Cleaning & ETL
+
+---
+
+### 🌐 Connect with Me
+- **LinkedIn:** [Adham Hany](https://www.linkedin.com/in/adham-hany-599b88319)
